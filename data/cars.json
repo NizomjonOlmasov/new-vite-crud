@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "id": "a0ce",
+      "marka": "Mers",
+      "year": "2022",
+      "color": "green",
+      "shina": "43"
+    },
+    {
+      "id": "f6e4",
+      "marka": "Nexia",
+      "year": "2011",
+      "color": "qizil",
+      "shina": "41"
+    },
+    {
+      "id": "452e",
+      "marka": "Matiz",
+      "year": "2022",
+      "color": "qizil",
+      "shina": "30"
+    }
+  ]
+}
