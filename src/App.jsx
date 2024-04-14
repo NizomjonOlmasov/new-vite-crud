@@ -5,6 +5,7 @@ import { Routes ,Route} from "react-router-dom";
 // import About from "./pages/about";
 // import Contact from "./pages/contact";
 import Update from "./pages/update";
+import Swipper from "./pages/swipper";
 function App() {
 
   return (
@@ -14,6 +15,7 @@ function App() {
       <Navbars />
     </div> */}
     <Routes >
+      <Route  path="/swipper" element={<Swipper/>}/>
       <Route path="/" element={<Home />}/>
       {/* <Route path="/about" element={<About />}/>
       <Route path="/contact" element={<Contact />}/>
